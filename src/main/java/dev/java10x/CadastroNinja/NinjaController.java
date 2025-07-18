@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController //controlador para API's Rest
 @RequestMapping //torna mapeado = sempre usamos ele dps do @RestController
-public class Controller {
+public class NinjaController {
 
     @GetMapping("/boasVindas") //ele pega informações   //especificando a rota dele
     public String boasVindas() {
