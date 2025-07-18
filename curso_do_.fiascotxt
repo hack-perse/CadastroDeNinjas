@@ -1,0 +1,26 @@
+site do spring : https://start.spring.io/
+1
+GROOV - gerencia nossas dependências ##mt antigo != MAVEN (faz a mesma coisa porém é melhor)
+
+PROJECT METADATA :
+* GROUP - controlador do projeto #empresa
+* ARTIFACT - nome da pasta do projeto
+* NAME - nome do projeto
+
+PACKAGING - envelopamento (JAR #mais usado)
+
+O QUE SÃO DEPENDÊNCIAS : são configurações que auxiliam no nosso projeto.
+	IPC : podemos vê-las no pom.xml, é o arquivo onde armazena todas as nossas "configurações" do projeto. ##é o coração do projeto.
+
+---------------------------------------------------
+
+VÍDEO DO PROJETO : https://www.youtube.com/watch?v=n8_qrrc8WN4
+
+DEPENDÊNCIAS DO PROJETO:
+* SPRING WEB - tem o Tom Cat, é uma dependência que ajuda a trabalhar com a net. Basicamente conecta nosso localhost na internet.
+	IPC: é a dependência mais comum nos projetos spring.
+	
+.MVN = nossa pasta MAVEN
+
+O QUE É ISSUE : separação de tarefas dentro do projeto.
+ipc : no LABEL, podemos inserir um tipo de rótulo para a nossa issue, demonstrando como está o desenvolvimento da nossa tarefa.
